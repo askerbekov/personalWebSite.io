@@ -9,14 +9,24 @@ menu {
   height: 50px;
   background-color: #ffffff;
 }
+menu div {
+  margin: 15px;
+  float: left;
+}
+menu nav {
+  float: right;
+}
 menu nav ul {
   list-style-type: none;
-  margin: 0;
+  margin: 15px;
   padding: 0;
-  color: black;
 }
 
 menu nav ul li {
   display: inline;
+}
+menu nav ul li a {
   color: black;
+  text-decoration: none;
+  margin: 20px;
 }
