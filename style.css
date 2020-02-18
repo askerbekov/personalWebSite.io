@@ -1,0 +1,22 @@
+body {
+  background-color: #272822;
+  margin: 0;
+  display: flex;
+}
+menu {
+  margin: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #ffffff;
+}
+menu nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+
+menu nav ul li {
+  display: inline;
+  color: black;
+}
