@@ -11,6 +11,10 @@ menu {
   font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco,
     "Bitstream Vera Sans Mono", monospace;
 }
+menu img {
+  width: 50px;
+  float: left;
+}
 menu div {
   margin: 15px;
   float: left;
@@ -35,16 +39,11 @@ menu nav ul li a {
 }
 header {
   width: 100%;
-  text-align: center;
-}
-header h1,
-h2 {
-  width: 30%;
-  text-align: center;
 }
 header img {
-  width: 400px;
+  width: 200px;
 }
+
 header div {
   color: #ffffff;
   font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco,
