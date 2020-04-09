@@ -12,7 +12,7 @@ menu {
     "Bitstream Vera Sans Mono", monospace;
 }
 menu img {
-  width: 50px;
+  width: 150px;
   float: left;
 }
 menu div {
@@ -38,10 +38,15 @@ menu nav ul li a {
   margin: 20px;
 }
 header {
-  width: 100%;
+  width: 90%;
+  padding: 40px;
+  display: flex;
 }
 header img {
-  width: 200px;
+  width: 300px;
+  border-radius: 50%;
+  border: 5px solid white;
+  padding: 5px;
 }
 
 header div {
@@ -51,4 +56,5 @@ header div {
   width: 600px;
   margin: 0 auto;
   text-align: center;
+  margin-top: 10%;
 }
