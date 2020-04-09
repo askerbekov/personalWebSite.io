@@ -39,11 +39,12 @@ menu nav ul li a {
 }
 header {
   width: 90%;
-  padding: 40px;
+  padding: 50px;
   display: flex;
+  flex-wrap: wrap;
 }
 header img {
-  width: 300px;
+  width: 30%;
   border-radius: 50%;
   border: 5px solid white;
   padding: 5px;
