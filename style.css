@@ -58,6 +58,10 @@ header div {
   margin: auto;
   text-align: center;
 }
+.portimg {
+  border: 5px solid white;
+  padding: 5px;
+}
 footer {
   background-color: white;
   display: flex;
